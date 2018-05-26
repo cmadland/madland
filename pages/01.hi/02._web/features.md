@@ -11,7 +11,7 @@ features:
         icon: 'fa fa-wordpress'
         text: '<a href="http://merelearning.ca">blog</a>'
     -
-        icon: 'fa fa-grav'
-        text: '<a href="https://research.madland.ca">research</a>'
+        icon: 'fa fa-pressbooks'
+        text: '<a href="http://open.merelearning.ca/ssi/">research</a>'
 ---
 
