@@ -4,10 +4,9 @@ features:
     -
         icon: 'fa fa-twitter-square'
         text: '@colinmadland'
-        url: 'https://twitter.com/colinmadland'
+        url: '<a href="https://twitter.com/colinmadland"></a>'
     -
         icon: 'fa fa-github-square'
-        header: header
         text: text
 ---
 
