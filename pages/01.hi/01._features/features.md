@@ -3,8 +3,8 @@ title: features
 features:
     -
         icon: 'fa fa-twitter-square'
-        header: header
-        text: text
+        text: '@colinmadland'
+        url: 'https://twitter.com/colinmadland'
     -
         icon: 'fa fa-github-square'
         header: header
