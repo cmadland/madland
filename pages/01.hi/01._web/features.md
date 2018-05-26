@@ -8,10 +8,10 @@ features:
         icon: 'fa fa-github-square'
         text: <a href="https://github.com/cmadland">@cmadland</a>
     -
-        icon: 'fa fa-wordpress-square'
+        icon: 'fa fa-wordpress'
         text: <a href="http://merelearning.ca">blog</a>
     -
-        icon: 'fa fa-grav-square'
+        icon: 'fa fa-grav'
         text: <a href="https://research.madland.ca">research</a>
 ---
 
