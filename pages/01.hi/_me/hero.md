@@ -4,4 +4,5 @@ hero_classes: 'text-light parallax hero-fullscreen'
 hero_image: benjamin-voros-333663-unsplash.jpg
 ---
 
-#### content
+### Colin Madland, MEd (Distance Education)
+##### educator | technologist | phd student
