@@ -3,9 +3,9 @@ title: features
 features:
     -
         icon: 'fa fa-twitter-square'
-        text: '[@colinmadland](https://twitter.com/colinmadland)'
+        text: <a href="https://twitter.com/colinmadland>@colinmadland</a>
     -
         icon: 'fa fa-github-square'
-        text: [@cmadland](https://github.com/cmadland)
+        text: <a href="https://github.com/cmadland">@cmadland</a>
 ---
 
