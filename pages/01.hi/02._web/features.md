@@ -2,16 +2,19 @@
 title: web
 features:
     -
-        icon: 'fa fa-twitter-square'
+        icon: 'fa fa-twitter'
         text: '<a href="https://twitter.com/colinmadland">@colinmadland</a>'
     -
-        icon: 'fa fa-github-square'
+        icon: 'fa fa-github'
         text: '<a href="https://github.com/cmadland">@cmadland</a>'
     -
         icon: 'fa fa-wordpress'
         text: '<a href="http://merelearning.ca">blog</a>'
     -
-        icon: 'fa fa-grad-cap'
-        text: '<a href="http://open.merelearning.ca/ssi/">research</a>'
+        icon: 'fa fa-graduation-cap'
+        text: '<a href="http://open.merelearning.ca/ssi/">MEd research</a>'
+    -
+        icon: 'fa fa-grav'
+        text: '<a href="https://grav.madland.ca">PhD research</a>'
 ---
 
