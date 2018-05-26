@@ -1,7 +1,7 @@
 ---
 title: Hi
 body_classes: 'header-animated sticky-footer'
-hero_classes: hero-fullscreen
+hero_classes: 'hero-fullscreen parallax text-light'
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
