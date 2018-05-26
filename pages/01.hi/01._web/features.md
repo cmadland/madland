@@ -1,11 +1,17 @@
 ---
-title: web
+title: features
 features:
     -
         icon: 'fa fa-twitter-square'
-        text: '<a href="https://twitter.com/colinmadland">@colinmadland</a>'
+        text: <a href="https://twitter.com/colinmadland">@colinmadland</a>
     -
         icon: 'fa fa-github-square'
-        text: '<a href="https://github.com/cmadland">@cmadland</a>'
+        text: <a href="https://github.com/cmadland">@cmadland</a>
+    -
+        icon: 'fa fa-wordpress-square'
+        text: <a href="http://merelearning.ca">blog</a>
+    -
+        icon: 'fa fa-grav-square'
+        text: <a href="https://research.madland.ca">research</a>
 ---
 
