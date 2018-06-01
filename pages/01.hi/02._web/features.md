@@ -21,4 +21,3 @@ features:
         text: '<a href="https://www.flickr.com/photos/colinmadland">pics</a>'
 ---
 
-![](michael-mroczek-440382-unsplash.jpg)
