@@ -9,12 +9,15 @@ features:
         text: '<a href="https://github.com/cmadland">@cmadland</a>'
     -
         icon: 'fa fa-wordpress'
-        text: '<a href="http://merelearning.ca">blog</a>'
+        text: '<a href="http://merelearning.ca">merelearning.ca</a>'
     -
         icon: 'fa fa-graduation-cap'
         text: '<a href="http://open.merelearning.ca/ssi/">MEd research</a>'
     -
         icon: 'fa fa-grav'
         text: '<a href="https://grav.madland.ca">PhD research</a>'
+    -
+        icon: 'fa fa-flickr'
+        text: '<a href="https://www.flickr.com/photos/colinmadland">pics</a>'        
 ---
 
