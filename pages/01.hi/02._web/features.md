@@ -17,7 +17,7 @@ features:
         icon: 'fa fa-grav'
         text: '<a href="https://grav.madland.ca">PhD research</a>'
     -
-        icon: 'fa fa-flickr'
-        text: '<a href="https://www.flickr.com/photos/colinmadland">pics</a>'        
+        icon: 'fa fa-camera'
+        text: '<a href="https://www.flickr.com/photos/colinmadland">pics</a>'
 ---
 
