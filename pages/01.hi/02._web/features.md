@@ -1,5 +1,6 @@
 ---
 title: web
+class: offset-box
 features:
     -
         icon: 'fa fa-twitter'
