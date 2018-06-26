@@ -22,3 +22,5 @@ features:
         text: '<a href="https://www.flickr.com/photos/colinmadland">pics</a>'
 ---
 
+# Hi!
+## Feel free to follow my digital footprints at the links below.
