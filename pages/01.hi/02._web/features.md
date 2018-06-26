@@ -23,4 +23,4 @@ features:
 ---
 
 # Hi!
-## Feel free to follow my digital footprints at the links below.
+Feel free to follow my digital footprints at the links below.
