@@ -2,7 +2,7 @@
 title: me
 body_classes: header-transparent
 hero_classes: 'text-light hero-fullscreen'
-hero_image: josh-nuttall-271926-unsplash.jpg
+hero_image: benjamin-voros-333663-unsplash.jpg
 ---
 
 ## Colin Madland, MEd (Distance Education)
