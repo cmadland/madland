@@ -18,6 +18,9 @@ features:
         icon: 'fa fa-grav'
         text: '<a href="https://grav.madland.ca">PhD research</a>'
     -
+        icon: 'fa fa-book'
+        text: '<a href="https://grav.madland.ca/articles">Lit Database</a>'
+    -
         icon: 'fa fa-camera'
         text: '<a href="https://www.flickr.com/photos/colinmadland">pics</a>'
 ---
