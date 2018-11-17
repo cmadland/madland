@@ -4,7 +4,7 @@ class: offset-box
 features:
     -
         icon: 'fa fa-twitter'
-        text: '<H3><a href="https://twitter.com/colinmadland">Tweets</a></H3>'
+        text: '<H4><a href="https://twitter.com/colinmadland">Tweets</a></H4>'
     -
         icon: 'fa fa-github'
         text: '<a href="https://github.com/cmadland">Projects</a>'
