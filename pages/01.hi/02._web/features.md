@@ -3,10 +3,10 @@ title: web
 class: offset-box
 features:
 
--
-    icon: 'fa fa-book'
-    text: '<h5><a href="https://grav.madland.ca/articles">Lit</a></h5>'
--
+    -
+        icon: 'fa fa-book'
+        text: '<h5><a href="https://grav.madland.ca/articles">Lit</a></h5>'
+    - 
         icon: 'fa fa-twitter'
         text: '<h5><a href="https://twitter.com/colinmadland">Tweets</a></h5>'
     -
